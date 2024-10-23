@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mtlib"
+	"github.com/vaktibabat/gomt"
 	"os"
 	"time"
 )
