@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"mtlib"
+	"github.com/vaktibabat/gomt"
 	"os"
 	"strconv"
 )
